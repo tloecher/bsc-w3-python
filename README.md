@@ -1,4 +1,4 @@
-# Interacting with Binance Smart Chain (using web3 / Python)
+# Interacting with Binance Smart Chain (web3/Python)
 
 Recently Pancake Swap forks have been popping up at an alarming rate in the BSC ecosystem.  
 Some of these yield farm launches were quite hotly anticipated by the community.  
